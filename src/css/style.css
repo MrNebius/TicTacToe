@@ -1,0 +1,32 @@
+.main{
+    background: lightblue;
+    height: 500px;
+    width: 450px;
+    margin: auto;
+}
+
+.test{
+    display: inline-block;
+    border-radius: 30px;
+    height:150px;
+    width:150px;
+    border: 5px solid #CD853F;
+    font-size: 125px;
+    font-weight: bold;
+}
+
+.buttons{
+    width: 450px;
+    height:30px;
+    font-size: 20px;
+}
+.buttons_game{
+    width: 225px;
+    height:30px;
+    font-size: 20px;
+}
+
+.buttons_game:disabled{
+    border: 5px;
+}
+
